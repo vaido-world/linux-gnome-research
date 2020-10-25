@@ -18,6 +18,7 @@
   * **Gnome Dash** 
     * Application quick pick grid
     * Gnome "Show Applications" Button
+  * **Gnome "Show Applications"**
   
 General Research Resources  
 https://wiki.gnome.org/Gnome3CheatSheet  
