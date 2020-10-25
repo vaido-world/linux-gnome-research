@@ -1,12 +1,12 @@
 # linux-gnome-research
 
 * Gnome Panel
-  *  Gnome Panel Left 
+  *  **Gnome Panel Left** 
      * Tab Button Activities Overview 
      * Tab Button Application Menu [[1.]](https://wiki.gnome.org/Design/OS/AppMenu)[[2.]](https://wiki.gnome.org/HowDoI/ApplicationMenu)
-  * Gnome Panel Center
+  * **Gnome Panel Center**
      * Tab Button Clock
-  * Gnome Panel Right
+  * **Gnome Panel Right**
      * Keyboard Input Source Indicator
      * System Status Area 
        * Volume Indicator 
