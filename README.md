@@ -17,9 +17,9 @@ The purpose of this research is to give descriptive information about Gnome Proj
        
 * Gnome Shell **Activities Overview**
   * **Gnome Shell Dash** 
-    * Application quick pick grid
+    * Dash Vertical Application list (quick pick grid)
       * Application Icon 
-    * Gnome "Show Applications" Button
+      * Gnome "Show Applications" Button
   * **Gnome "Show Applications"** (applications launcher)
   
   
