@@ -14,7 +14,10 @@
        * Bluetooth Indicator
        * Power Indicator
        
-* Gnome Activities Overview Dash 
+* Gnome Activities Overview
+  * Gnome Dash 
+    * Application quick pick grid
+    * Gnome "Show Applications" Button
   
 General Research Resources  
 https://wiki.gnome.org/Gnome3CheatSheet  
