@@ -2,8 +2,8 @@
 
 * Gnome Panel
   *  Gnome Panel Left 
-     * Activities Overview Tab Button
-     * Application Menu Tab Button [[1.]](https://wiki.gnome.org/Design/OS/AppMenu)[[2.]](https://wiki.gnome.org/HowDoI/ApplicationMenu)
+     * Tab Button Activities Overview 
+     * Tab Button Application Menu [[1.]](https://wiki.gnome.org/Design/OS/AppMenu)[[2.]](https://wiki.gnome.org/HowDoI/ApplicationMenu)
   * Gnome Panel Center
   * Gnome Panel Right
   
