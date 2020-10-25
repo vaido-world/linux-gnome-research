@@ -30,3 +30,5 @@ General Research Resources
 https://wiki.gnome.org/Gnome3CheatSheet  
 https://wiki.gnome.org/Projects/GnomeShell/Tour  
 https://wiki.gnome.org/Projects/GnomeShell/Design
+
+Gnome OS .iso can be downloaded from here: https://gitlab.gnome.org/GNOME/gnome-build-meta/-/wikis/home
