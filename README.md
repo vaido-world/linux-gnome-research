@@ -14,7 +14,7 @@
        * Bluetooth Indicator
        * Power Indicator
        
-* Gnome Shell Activities Overview
+* Gnome Shell **Activities Overview**
   * **Gnome Shell Dash** 
     * Application quick pick grid
       * Application Icon 
