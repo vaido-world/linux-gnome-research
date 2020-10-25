@@ -1,0 +1,69 @@
+Gnome Shell Research 2020-10 GNOME Shell 40.alpha
+Gnome Shell Inspection Using Looking Glass 
+* Gnome Panel (Top Bar)
+** Gnome Panel Left
+*** Activities Overview Button
+*** AppMenuButton -> Inside status menu box -> Only Current Application's name with an icon, also Left or Right click for Application's options 
+
+** Gnome Panel Center
+*** Gnome Date Menu Button (with a "Clock" (and date) display)
+
+**Gnome Panel Right
+*** (Keyboard) Input Source Indicator
+*** Panel Status Indicator Box
+**** Volume Indicator 
+**** Network Indicator (not present)
+**** Bluetooth Indicator (not present)
+**** Power Indicator
+
+* Gnome Activities Overview
+** Gnome "Show Applications" Button
+*** Gnome "Show Applications"
+**** Gnome Icon Grid
+**** Page Indicators
+** Gnome Dash 
+** Gnome Workspace Window Picker
+** Gnome Workspace Thumbnails Box
+** Gnome Search Entry | For Applications and Files
+
+* Gnome User Switcher / Desktop Environment/ etc
+
+* Gnome Desktop/Background
+
+__General Applications__
+
+* Gnome Web (epiphany)
+
+* Gnome Terminal (gnome-terminal)
+
+* Gnome Files (nautilus)
+
+* Gnome Text Editor (gedit)
+
+* Gnome Music (gnome-music) (Rythmbox, PulseAudio)
+
+* Gnome Software (gnome-software)
+
+* Gnome Calendar (gnome-calendar)
+* Gnome Maps (gnome-maps)
+* Gnome Photos (gnome-photos)
+* Gnome Contacts (gnome-contacts)
+* Gnome Clocks (gnome-clocks)
+* Gnome Weather (gnome-weather)
+
+* [Gnome] Cheese (cheese)
+
+* Gnome Videos (totem)
+
+* Gnome Parental Controls (malcontent-control)
+
+* Gnome System Monitor (gnome-system-monitor)
+
+* Gnome Settings (gnome-control-center)
+
+__Utilities Applications__
+Gnome Document Scanner (simple-scan)
+Gnome Characters (gnome-characters)
+Gnome Fonts (gnome-font-viewer)
+Gnome Help (gnome-help)
+Gnome Logs (gnome-logs)
