@@ -1,4 +1,5 @@
 # linux-gnome-research
+The purpose of this research is to give descriptive information about Gnome Project.
 
 * Gnome Shell **Panel**
   *  **Gnome Shell Panel Left** 
