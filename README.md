@@ -7,8 +7,8 @@
   * **Gnome Shell Panel Center**
      * Tab Button Clock
   * **Gnome Shell Panel Right**
-     * Keyboard Input Source Indicator
-     * **System Status Area** 
+     * Tab Button Keyboard Input Source Indicator
+     * Tab Button **System Status Area** 
        * Volume Indicator 
        * Network Indicator
        * Bluetooth Indicator
