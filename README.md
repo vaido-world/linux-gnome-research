@@ -5,8 +5,9 @@
      * Tab Button Activities Overview 
      * Tab Button Application Menu [[1.]](https://wiki.gnome.org/Design/OS/AppMenu)[[2.]](https://wiki.gnome.org/HowDoI/ApplicationMenu)
   * Gnome Panel Center
+     * Tab Button Clock
   * Gnome Panel Right
-  
+     * Keyboard Input Source Indicator
   
 General Research Resources  
 https://wiki.gnome.org/Gnome3CheatSheet  
