@@ -21,7 +21,7 @@ Let's speak the same language.
     * Dash Vertical Applications List
       * Application Icons
       * Gnome "Show Applications" Button
-  * **Gnome "Show Applications"** (applications launcher)
+        * **Gnome "Show Applications"** (applications launcher)
   
   
 * [Gnome Core Applications](https://en.wikipedia.org/wiki/GNOME_Core_Applications) 
