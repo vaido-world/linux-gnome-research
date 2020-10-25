@@ -1,5 +1,6 @@
 # linux-gnome-research
-The purpose of this research is to give descriptive information about Gnome Project.
+The purpose of this research is to give descriptive information about Gnome Project.  
+Let's speak the same language.
 
 * Gnome Shell **Panel**
   *  **Gnome Shell Panel Left** 
