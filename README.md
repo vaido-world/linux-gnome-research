@@ -17,7 +17,7 @@
 * Gnome Shell Activities Overview
   * **Gnome Shell Dash** 
     * Application quick pick grid
-     * Application Icon 
+      * Application Icon 
     * Gnome "Show Applications" Button
   * **Gnome "Show Applications"** (applications launcher)
   
