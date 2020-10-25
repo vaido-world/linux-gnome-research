@@ -31,6 +31,6 @@ https://wiki.gnome.org/Gnome3CheatSheet
 https://wiki.gnome.org/Projects/GnomeShell/Tour  
 https://wiki.gnome.org/Projects/GnomeShell/Design
 
-Gnome OS .iso can be downloaded from here: https://gitlab.gnome.org/GNOME/gnome-build-meta/-/wikis/home
+Gnome OS .iso can be downloaded from here: https://gitlab.gnome.org/GNOME/gnome-build-meta/-/wikis/home  
 It is not a live cd distribution, requires a complete hard-drive to be wiped out and overwritten.   
 Not possible to install on a flash drive, since the installer does not detect them. 
