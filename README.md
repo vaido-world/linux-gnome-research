@@ -15,7 +15,7 @@
        * Power Indicator
        
 * Gnome Activities Overview
-  * Gnome Dash 
+  * **Gnome Dash** 
     * Application quick pick grid
     * Gnome "Show Applications" Button
   
