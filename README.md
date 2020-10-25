@@ -13,6 +13,8 @@
        * Network Indicator
        * Bluetooth Indicator
        * Power Indicator
+       
+* Gnome Activities Overview Dash 
   
 General Research Resources  
 https://wiki.gnome.org/Gnome3CheatSheet  
