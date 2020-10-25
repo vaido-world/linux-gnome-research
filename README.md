@@ -1,6 +1,6 @@
 # linux-gnome-research
 
-* Gnome Shell Panel
+* Gnome Shell **Panel**
   *  **Gnome Shell Panel Left** 
      * Tab Button Activities Overview 
      * Tab Button Application Menu [[1.]](https://wiki.gnome.org/Design/OS/AppMenu)[[2.]](https://wiki.gnome.org/HowDoI/ApplicationMenu)
