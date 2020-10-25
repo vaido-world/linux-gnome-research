@@ -20,6 +20,9 @@
     * Gnome "Show Applications" Button
   * **Gnome "Show Applications"** (applications launcher)
   
+  
+* [Gnome Core Applications](https://en.wikipedia.org/wiki/GNOME_Core_Applications) 
+  
 General Research Resources  
 https://wiki.gnome.org/Gnome3CheatSheet  
 https://wiki.gnome.org/Projects/GnomeShell/Tour  
